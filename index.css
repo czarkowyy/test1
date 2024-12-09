@@ -22,7 +22,7 @@ p{
 
 body{
     background-color: black;
-    overflow:auto;
+    overflow:scroll;
 }
 
 .go{
